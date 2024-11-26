@@ -38,7 +38,7 @@ Data yang namanya tidak cocok akan disimpan kembali.
 
 ## Step 5 : Fungsi ubah(nama)
 
-![foto](foto/ss5.png)
+![foto](FOTO/ss5.png)
 
 Apa yang dilakukan:
 1. Mencari data mahasiswa berdasarkan nama:
@@ -51,7 +51,7 @@ Menampilkan pesan bahwa data tidak ada.
 
 ## Step 6 : Menu Utama
 
-![foto](foto/ss6.png)
+![foto](FOTO/ss6.png)
 
 Apa yang dilakukan: 
 * Menampilkan menu pilihan kepada pengguna:
@@ -72,11 +72,11 @@ Saat pengguna memilih menu 1 (Tambah Data), program akan meminta input untuk NIM
 
 ### Contoh Input:
 
-![foto](foto/ss7.png)
+![foto](FOTO/ss7.png)
 
 ### Contoh Output:
 
-![foto](foto/ss8.png)
+![foto](FOTO/ss8.png)
 
 Setelah itu, data mahasiswa (NIM, Nama, Nilai UTS, UAS, Tugas, dan Nilai Akhir) akan disimpan dalam list data_mahasiswa.
 
@@ -86,12 +86,12 @@ Saat pengguna memilih menu 2 (Tampilkan Data), program akan menampilkan seluruh 
 
 ### Contoh Output (Jika ada data):
 
-![foto](foto/ss9.png)
+![foto](FOTO/ss9.png)
 
 * Jika data mahasiswa sudah ditambahkan sebelumnya, maka data akan ditampilkan dalam format tabel yang rapi.
 * Jika tidak ada data dalam data_mahasiswa, program akan menampilkan pesan:
 
-![foto](foto/ss10.png)
+![foto](FOTO/ss10.png)
 
 ## 3. Menghapus Data Mahasiswa (Fungsi hapus(nama))
 Proses:
@@ -99,11 +99,11 @@ Saat pengguna memilih menu 3 (Hapus Data), program akan meminta input nama mahas
 
 ### Input 
 
-![foto](foto/ss11.png)
+![foto](FOTO/ss11.png)
 
 ### Output
 
-![foto](foto/ss12.png)
+![foto](FOTO/ss12.png)
 
 ## 4. Mengubah Data Mahasiswa (Fungsi ubah(nama))
 Proses:
@@ -111,11 +111,11 @@ Saat pengguna memilih menu 4 (Ubah Data), program akan mencari mahasiswa berdasa
 
 ### Contoh Input:
 
-![foto](foto/ss13.png)
+![foto](FOTO/ss13.png)
 
 ### Output :
 
-![foto](foto/ss14.png)
+![foto](FOTO/ss14.png)
 
 ## 5. Keluar Program (Menu 5)
 Proses:
@@ -123,7 +123,7 @@ Jika pengguna memilih menu 5 (Keluar), program akan berhenti.
 
 ### Output :
 
-![foto](foto/ss15.png)
+![foto](FOTO/ss15.png)
 
 
 
