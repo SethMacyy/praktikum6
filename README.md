@@ -8,7 +8,7 @@ Fungsi: Sebagai tempat penyimpanan data mahasiswa. Data disimpan dalam bentuk li
 
 ## Step 2 : Fungsi Tambah()
 
-![foto](foto/ss2.png)
+![foto](FOTO/ss2.png)
 
 Apa yang dilakukan:
 1. Meminta input NIM, nama, nilai UTS, UAS, dan tugas dari pengguna.
@@ -18,7 +18,7 @@ Apa yang dilakukan:
 
 ## Step 3 : Fungsi Tampilkan()
 
-![foto](foto/ss3.png)
+![foto](FOTO/ss3.png)
 
 Apa yang dilakukan:
 1. Mengecek apakah data_mahasiswa kosong. Jika iya, tampilkan pesan "Belum ada data".
@@ -28,7 +28,7 @@ NIM, Nama, UTS, UAS, Tugas, Akhir.
 
 ## Step 4 : Fungsi hapus(nama)
 
-![foto](foto/ss4.png)
+![foto](FOTO/ss4.png)
 
 Apa yang dilakukan:
 1. Menghapus data mahasiswa dengan nama tertentu menggunakan list comprehension:
