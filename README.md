@@ -1,4 +1,4 @@
-# PRAKTIKUM 6
+# TUGAS PRAKTIKUM 6
 
 ## Step 1 : List
 
