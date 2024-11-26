@@ -2,7 +2,7 @@
 
 ## Step 1 : List
 
-![foto](foto/ss1.png)
+![foto](FOTO/ss1.png)
 
 Fungsi: Sebagai tempat penyimpanan data mahasiswa. Data disimpan dalam bentuk list yang berisi dictionary, di mana setiap dictionary merepresentasikan satu mahasiswa.
 
