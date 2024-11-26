@@ -51,7 +51,7 @@ Menampilkan pesan bahwa data tidak ada.
 
 ## Step 6 : Menu Utama
 
-![ss](foto/ss1.png)
+![foto](foto/ss6.png)
 
 Apa yang dilakukan: 
 * Menampilkan menu pilihan kepada pengguna:
