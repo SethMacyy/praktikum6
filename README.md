@@ -125,6 +125,9 @@ Jika pengguna memilih menu 5 (Keluar), program akan berhenti.
 
 ![foto](FOTO/ss15.png)
 
+# FLOWCHART
+
+
 
 
 
