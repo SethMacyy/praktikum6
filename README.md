@@ -166,8 +166,7 @@ End
 Jika pengguna memilih opsi keluar, atau proses selesai, program akan berhenti di End.
 
 ## Kesimpulan
-Flowchart ini menggambarkan alur interaktif dalam program manajemen data mahasiswa, mulai dari memberikan opsi kepada pengguna hingga menjalankan fungsi-fungsi yang dipilih. Flowchart ini dirancang untuk memastikan setiap langkah proses dapat berjalan secara terorganisir. Jika ada poin yang perlu diperjelas, beri tahu saya!
-
+Flowchart ini menggambarkan alur interaktif dalam program manajemen data mahasiswa, mulai dari memberikan opsi kepada pengguna hingga menjalankan fungsi-fungsi yang dipilih. Flowchart ini dirancang untuk memastikan setiap langkah proses dapat berjalan secara terorganisir.
 
 
 
