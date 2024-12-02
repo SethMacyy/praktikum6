@@ -127,6 +127,46 @@ Jika pengguna memilih menu 5 (Keluar), program akan berhenti.
 
 # FLOWCHART
 
+![foto](FOTO/ss16.jpg)
+
+1. Start
+Proses dimulai dari node Start.
+
+2. Tampilkan Menu Pilihan
+Program menampilkan menu dengan beberapa opsi:
+
+3. Tambah data Mahasiswa
+Tampilkan data Mahasiswa
+Ubah data Mahasiswa
+Hapus data Mahasiswa
+Keluar
+Input Pilihan
+Pengguna memasukkan pilihan dari menu yang ditampilkan.
+
+4. Jika pilihan sesuai dengan salah satu menu, program akan melanjutkan proses.
+Jika tidak, program akan menuju ke End dan berhenti.
+Tambah Data Mahasiswa
+Jika pengguna memilih untuk menambah data mahasiswa, program:
+
+5. Meminta input nama dan nilai mahasiswa.
+Menambahkan data mahasiswa tersebut ke dalam sistem.
+Tampilkan Data Mahasiswa
+Jika pengguna memilih untuk menampilkan data, program:
+
+6. Menampilkan daftar mahasiswa yang telah dimasukkan sebelumnya.
+Hapus Data Mahasiswa
+Jika pengguna memilih untuk menghapus data mahasiswa, program:
+
+7. Menghapus data mahasiswa yang ada sesuai permintaan.
+Ubah Data Mahasiswa
+Jika pengguna memilih untuk mengubah data mahasiswa, program:
+
+8. Memungkinkan pengguna untuk memperbarui data mahasiswa yang ada.
+End
+Jika pengguna memilih opsi keluar, atau proses selesai, program akan berhenti di End.
+
+## Kesimpulan
+Flowchart ini menggambarkan alur interaktif dalam program manajemen data mahasiswa, mulai dari memberikan opsi kepada pengguna hingga menjalankan fungsi-fungsi yang dipilih. Flowchart ini dirancang untuk memastikan setiap langkah proses dapat berjalan secara terorganisir. Jika ada poin yang perlu diperjelas, beri tahu saya!
 
 
 
